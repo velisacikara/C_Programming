@@ -1,0 +1,3 @@
+﻿  bir_diziyi_baska_diziye_kopyalama.c
+C:\Users\VeliSacikara\Documents\C_Programming\006_diziler\bir_diziyi_baska_diziye_kopyalama\bir_diziyi_baska_diziye_kopyalama.c(10,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  bir_diziyi_baska_diziye_kopyalama.vcxproj -> C:\Users\VeliSacikara\Documents\C_Programming\006_diziler\bir_diziyi_baska_diziye_kopyalama\x64\Debug\bir_diziyi_baska_diziye_kopyalama.exe
